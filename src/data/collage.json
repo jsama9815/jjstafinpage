@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "img": "../assets/collage/photoCollage1.jpeg"
+    },
+    {
+        "id": 2,
+        "img": "../assets/collage/photoCollage2.jpeg"
+    },
+    {
+        "id": 3,
+        "img": "../assets/collage/photoCollage3.jpeg"
+    },
+    {
+        "id": 4,
+        "img": "../assets/collage/photoCollage4.jpeg"
+    },
+    {
+        "id": 5,
+        "img": "../assets/collage/photoCollage5.jpeg"
+    }
+    
+]

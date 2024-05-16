@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Chef",
+        "img": "../assets/cardsServices/chef.jpg",
+        "description": "A chef is a culinary professional responsible for food preparation, cooking, and overseeing kitchen operations. Their tasks include menu planning, recipe creation, ingredient sourcing, food preparation, ensuring food safety standards, managing kitchen staff, and maintaining kitchen hygiene.",
+        "price": "Price from $90 per hour"
+    },
+    {
+        "id": 2,
+        "title": "Waiter/Waitress",
+        "img": "../assets/cardsServices/waiter.jpg",
+        "description": "A waiter/waitress is a service staff member responsible for taking orders, serving food and beverages to customers, and ensuring a pleasant dining experience. Their tasks include greeting customers, presenting menus, taking food and drink orders, delivering orders to tables, and handling customer inquiries and requests.",
+        "price": "Price from $50 per hour"
+    },
+    {
+        "id": 3,
+        "title": "Security Guard",
+        "img": "../assets/cardsServices/securityGuard.jpg",
+        "description": "A security guard is responsible for maintaining safety and security on premises. Their tasks include monitoring surveillance equipment, patrolling designated areas, enforcing security procedures, responding to emergencies or incidents, and assisting with crowd control or evacuation procedures if necessary.",
+        "price": "Price from $100 per hour"
+    },
+    {
+        "id": 4,
+        "title": "Valet Parking Attendant ",
+        "img": "../assets/cardsServices/valetParking.jpg",
+        "description": "A valet parking attendant is responsible for parking and retrieving vehicles for customers at a valet parking service. Their tasks include greeting customers, safely parking vehicles, providing tickets, retrieving vehicles upon request, and ensuring the smooth operation of the valet parking service.",
+        "price": "Price from $70 per hour"
+    },
+    {
+        "id": 5,
+        "title": "Hostess",
+        "img": "../assets/cardsServices/hostess.jpg",
+        "description": "A hostess greets and welcomes guests, manages seating arrangements, handles reservations, coordinates with staff, assists guests with inquiries, maintains waiting areas, manages guest flow, and provides special assistance as needed. Their role is crucial in creating a positive guest experience and ensuring efficient operations at the establishment.",
+        "price": "Price from $60 per hour"
+    },
+    {
+        "id": 6,
+        "title": "BBQ Chef ",
+        "img": "../assets/bbqChef.jpg",
+        "description": "A BBQ Chef prepares and cooks meats and other foods on a grill or smoker, ensuring they are seasoned and cooked to perfection. They also maintain equipment, experiment with flavors, and provide exceptional dining experiences for customers.",
+        "price": "Price from $100 per day"
+    }
+]
